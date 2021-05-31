@@ -1,0 +1,28 @@
+
+SOLOVEY-AV	Wed Mar 04 16:50:18 2015
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	C:\Users\Solovey_AV\Desktop\GraphicEditor new\bin/ib_util.dll library has not been found
+	C:\Users\Solovey_AV\Desktop\GraphicEditor new\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+SOLOVEY-AV	Wed Mar 04 16:50:44 2015
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	C:\Users\Solovey_AV\Desktop\GraphicEditor new\bin/ib_util.dll library has not been found
+	C:\Users\Solovey_AV\Desktop\GraphicEditor new\ib_util.dll library has not been found
+	ib_util.dll library has not been found
+
+
+SOLOVEY-AV	Wed Aug 05 15:09:43 2015
+	I/O error during "ReadFile" operation for file "C:\USERS\SOLOVEY_AV\DESKTOP\BRESTES.FDB"
+	Error while trying to read from file
+	Достигнут конец файла. 
+
+
+SOLOVEY-AV	Wed Aug 05 15:09:43 2015
+	I/O error during "ReadFile" operation for file "C:\USERS\SOLOVEY_AV\DESKTOP\BRESTES.FDB"
+	Error while trying to read from file
+	Достигнут конец файла. 
+
